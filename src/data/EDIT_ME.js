@@ -13,10 +13,10 @@ export const BRAND = {
   tagline: "Arrive in Style. Move with Power.",
   sub: "Premium car rentals for comfort, class, and unforgettable experiences.",
   location: "Lead City, Ibadan · Lagos",
-  phone: "+234 801 234 5678", // ← your phone
-  phone2: "+234 901 234 5678", // ← second phone (delete line if not needed)
+  phone: "+234 708 343 6772", // ← your phone
+
   email: "hello@teejaymisoautos.com",
-  whatsapp: "2348012345678", // ← WhatsApp number digits only, no + or spaces
+  whatsapp: "2347083436772", // ← WhatsApp number digits only, no + or spaces
   whatsappMsg:
     "Hello! I'd like to book a premium car with Teejay Autos × Miso Autos.",
   instagram: "https://instagram.com/",
