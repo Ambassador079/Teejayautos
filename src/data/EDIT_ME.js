@@ -44,34 +44,30 @@ export const CARS = [
     id: 1,
     name: "Toyota Land Cruiser Prado",
     tag: "Luxury SUV",
-    desc: "Commanding presence on every road — rugged capability wrapped in refined luxury.",
+    desc: "Commanding presence on every road rugged capability wrapped in refined luxury.",
     // To use local image: '/assets/prado.jpg'
-    image:
-      "https://images.unsplash.com/photo-1559416523-140ddc3d238c?w=800&q=80",
+    image: prado,
   },
   {
     id: 2,
     name: "Mercedes-Benz GLE",
     tag: "Premium SUV",
-    desc: "Athletic performance meets plush comfort — crafted for the discerning driver.",
-    image:
-      "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&q=80",
+    desc: "Athletic performance meets plush comfort  crafted for the discerning driver.",
+    image: gle,
   },
   {
     id: 3,
     name: "Cadillac Escalade",
     tag: "Ultra Luxury SUV",
     desc: "Bold, spacious, unmistakably elite. The pinnacle of American grandeur.",
-    image:
-      "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&q=80",
+    image: esc,
   },
   {
     id: 4,
     name: "Rolls-Royce Cullinan",
     tag: "Bespoke Luxury",
     desc: "Silence. Prestige. Perfection. A journey that needs no words.",
-    image:
-      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=800&q=80",
+    image: rr,
   },
 ];
 
@@ -176,7 +172,7 @@ export const GALLERY = [
     image: pradoi,
     thumb: prado,
     caption: "Prado — Commanding Every Road",
-    tall: false,
+    tall: true,
   },
   {
     id: 7,
@@ -244,9 +240,9 @@ export const ABOUT_IMAGE =
   "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=900&q=85";
 
 export const ABOUT = {
-  heading: "More Than Cars — We Deliver Experiences",
+  heading: "More Than Cars We Deliver Experiences",
   paragraphs: [
-    "Teejay Autos × Miso Autos was built on one belief: every journey deserves to feel extraordinary. We are not just a rental company — we are curators of elite mobility.",
+    "Teejay Autos × Miso Autos was built on one belief: every journey deserves to feel extraordinary. We are not just a rental company we are curators of elite mobility.",
     "From Ibadan to Lagos and beyond, we serve executives, dignitaries, couples, and everyone who refuses ordinary. Our fleet is hand-selected. Our drivers are impeccably trained.",
     "When you choose us, you are not hiring a car. You are choosing to arrive differently.",
   ],
