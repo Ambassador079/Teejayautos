@@ -130,6 +130,11 @@ import spi from "../assets/cars/sprinti.jpg";
 import gh from "../assets/cars/ghost.jpg";
 import ghi from "../assets/cars/ghosti.jpg";
 
+import ts1 from "../assets/test/ts1.png";
+import ts2 from "../assets/test/ts2.png";
+import ts3 from "../assets/test/ts3.png";
+import ts4 from "../assets/test/ts4.png";
+
 export const GALLERY = [
   {
     id: 1,
@@ -196,8 +201,7 @@ export const REVIEWS = [
     name: "Adebayo Okonkwo",
     role: "CEO · Lagos",
     text: "Teejay Autos redefined what a car rental should feel like. The Escalade arrived pristine, the driver was impeccably professional, and every detail was perfection.",
-    avatar:
-      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&q=80",
+    avatar: ts1,
     stars: 5,
   },
   {
@@ -205,8 +209,7 @@ export const REVIEWS = [
     name: "Chidinma Eze",
     role: "Wedding Planner · Abuja",
     text: "We booked a fleet for a high-profile wedding in Ibadan. Spotless cars, responsive team, and guests were completely blown away. Truly luxury from start to finish.",
-    avatar:
-      "https://images.unsplash.com/photo-1494790108755-2616b612b47c?w=200&q=80",
+    avatar: ts2,
     stars: 5,
   },
   {
@@ -214,8 +217,7 @@ export const REVIEWS = [
     name: "Emmanuel Fashola",
     role: "Executive Director · Ibadan",
     text: "I've used many car services across Nigeria. Miso Autos stands in a class of its own. The GLE was flawless. This is how business travel should feel.",
-    avatar:
-      "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&q=80",
+    avatar: ts3,
     stars: 5,
   },
   {
@@ -223,8 +225,7 @@ export const REVIEWS = [
     name: "Fatima Al-Hassan",
     role: "Diplomat · Abuja",
     text: "For protocol-sensitive occasions, trust and quality are non-negotiable. Teejay × Miso delivered both. The Rolls-Royce arrangement was absolutely flawless.",
-    avatar:
-      "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=200&q=80",
+    avatar: ts4,
     stars: 5,
   },
   {
@@ -232,8 +233,7 @@ export const REVIEWS = [
     name: "Tunde Adesanya",
     role: "Music Executive · Lagos",
     text: "Style matters in my industry and these guys understand that completely. Every car is maintained to exceptional standard. Already recommended to my entire team.",
-    avatar:
-      "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=200&q=80",
+    avatar: ts1,
     stars: 5,
   },
 ];
